@@ -1,0 +1,11 @@
+{
+  "name": "spreadsheet-reader",
+  "version": "1.0.0",
+  "description": "Parse a Google spreadsheet and return structured information",
+  "main": "index.js",
+  "author": "eakl",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^19.0.0"
+  }
+}
